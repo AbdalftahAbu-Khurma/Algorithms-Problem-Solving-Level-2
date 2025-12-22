@@ -1,6 +1,6 @@
-# 📘 05 - Algorithms & Problem Solving – Level 2 (Programming Advices)
+# 📘 05 - Algorithms & Problem Solving – Level 2 
 
-🎉 I’m happy to share that I’ve completed the **05 – Algorithms & Problem Solving Level 2** course  [AbouHadhood Platform](https://programmingadvices.com/). 🏆  
+🎉 I’m happy to share that I’ve completed the **05 – Algorithms & Problem Solving Level 2** 🏆  
 
 This repository contains **algorithmic problems and solutions** from Level 2, focusing on deepening problem-solving skills while applying the **Divide & Conquer** approach.
 
@@ -38,14 +38,7 @@ We broke every problem into small, focused functions & procedures—each with a 
 - **Paradigm:** Structured Programming
 - **Tools:** VS Code / Dev-C++, Git, GitHub
 
----
 
-## 🔜 Next Steps
-After completing this level, I advanced to **Level 3 – Algorithms & Problem Solving**, which introduced more complex challenges and advanced concepts.
 
----
 
-## 📬 Connect
-- **GitHub:** [AhmedYaser-Mt](https://github.com/AhmedYaser-Mt)
-- **LinkedIn:** [Ahmed Yasser](https://www.linkedin.com/in/ahmed-yaser-mt)
 
